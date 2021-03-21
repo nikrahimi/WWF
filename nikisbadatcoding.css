@@ -5,13 +5,6 @@
 }
 
 
-.nik{
-    text-align: center;
-    color:darkorange;
-    font-family: Arial;
-    margin: 0, 30px;
-        
-}
 
 
 .oof {
@@ -44,6 +37,7 @@
     justify-content: space-between;
     height: 100%;
     align-items: center;
+    background-color: white
 }
 .content div{
     margin: 30px;
@@ -54,7 +48,8 @@
 .p{
     text-align: center;
     font-family: Arial;
-    color:black
+    color:black;
+    font-size: 200%;
 }
 
 .header {
@@ -97,10 +92,53 @@ img {
 }
 
 .nikk{
-    margin:0px
+    margin:0px;
+    font-size: 600px;
+        font: Fantasy;
+        
 }
 
 .ikg{
-    background-color: lightgrey;
+    background-color: dimgrey;
         height: 100px;
+}
+
+
+
+
+
+.nik{
+    text-align: center;
+    color: #ffd633;
+    font-family: fantasy;
+    margin: 0, 30px;
+    font-size:300%
+}
+
+
+.nik2{
+    text-align: center;
+    color: aqua;
+    font-family: fantasy;
+    margin: 0, 30px;
+    font-size:300%
+        
+}
+
+.nik3{
+    text-align: center;
+    color:lawngreen;
+    font-family: fantasy;
+    margin: 0, 30px;
+    font-size:300%
+        
+}
+
+.nik4{
+    text-align: center;
+    color:orangered;
+    font-family: fantasy;
+    margin: 0, 30px;
+    font-size:300%
+        
 }
